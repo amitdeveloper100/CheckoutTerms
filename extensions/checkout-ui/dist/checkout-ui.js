@@ -19520,8 +19520,15 @@ ${errorInfo.componentStack}`);
     return /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)(import_jsx_runtime4.Fragment, { children: [
       /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(Divider2, {}),
       /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(BlockSpacer2, { spacing: "base" }),
-      /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(Heading2, { level: 2, children: " Terms and conditions " }),
-      /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(BlockLayout2, { children: /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(List2, { children: /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(ListItem2, { children: "All provided information is correct. By placing this order, I AGREE to the privacy policy, shipping policy, refund policy, and terms of service." }) }) }),
+      /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(Heading2, { level: 2, children: "T\xE9rminos y condiciones" }),
+      /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(BlockLayout2, { children: /* @__PURE__ */ (0, import_jsx_runtime4.jsxs)(List2, { children: [
+        /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(ListItem2, { children: " Tiempo entrega Santo Domingo: De 1 a 2 d\xEDas laborables. [Puerta a Puerta]" }),
+        /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(ListItem2, { children: " Tiempo entrega Interior del pa\xEDs: De 3 a 5 d\xEDas laborables. [MetroPac, Vimenpaq o CaribeTours]" }),
+        /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(ListItem2, { children: " Una vez procesada la orden, no se permiten cambios ni cancelaci\xF3n." }),
+        /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(ListItem2, { children: " No disponemos de una hora de entrega exacta." }),
+        /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(ListItem2, { children: " Si nuestro colaborador tiene alguna pregunta sobre la ubicaci\xF3n, te contactar\xE1 v\xEDa WhatsApp desde otro n\xFAmero." }),
+        /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(ListItem2, { children: " Laboramos de Lunes a Viernes de 10:00AM a 5:00PM" })
+      ] }) }),
       /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(BlockSpacer2, { spacing: "base" }),
       /* @__PURE__ */ (0, import_jsx_runtime4.jsx)(Divider2, {})
     ] });
