@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shopify App Template - None (app with extensions only)
 
 This is a template for building a [Shopify app](https://shopify.dev/docs/apps/getting-started) that includes no app home UI. It contains the basics for building a Shopify app that uses only app extensions.
@@ -76,3 +77,6 @@ Open the URL generated in your console. Once you grant permission to the app, yo
 - [App authentication](https://shopify.dev/docs/apps/auth)
 - [Shopify CLI](https://shopify.dev/docs/apps/tools/cli)
 - [Shopify API Library documentation](https://github.com/Shopify/shopify-api-js#readme)
+=======
+# CheckoutTerms
+>>>>>>> origin/main
